@@ -1,0 +1,17 @@
+C:\Users\legen\source\repos\File\File\bin\Debug\File.exe.config
+C:\Users\legen\source\repos\File\File\bin\Debug\File.exe
+C:\Users\legen\source\repos\File\File\bin\Debug\File.pdb
+C:\Users\legen\source\repos\File\File\obj\Debug\File.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\File\File\obj\Debug\File.Form1.resources
+C:\Users\legen\source\repos\File\File\obj\Debug\File.Form2.resources
+C:\Users\legen\source\repos\File\File\obj\Debug\File.Properties.Resources.resources
+C:\Users\legen\source\repos\File\File\obj\Debug\File.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\File\File\obj\Debug\File.exe
+C:\Users\legen\source\repos\File\File\obj\Debug\File.pdb
+C:\Users\legen\source\repos\File\File\obj\Debug\File.Form3.resources
+C:\Users\legen\source\repos\File\File\bin\Debug\Interop.WMPLib.dll
+C:\Users\legen\source\repos\File\File\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\legen\source\repos\File\File\obj\Debug\Interop.WMPLib.dll
+C:\Users\legen\source\repos\File\File\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\legen\source\repos\File\File\obj\Debug\File.csproj.ResolveComReference.cache
